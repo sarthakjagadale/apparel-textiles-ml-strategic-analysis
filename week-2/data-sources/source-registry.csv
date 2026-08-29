@@ -1,1 +1,12 @@
 
+Source Name,Publisher,Data Type,Potential ML Use,Access Method,Reliability,Update Frequency,Main Limitation
+India Open Government Data,Government of India,Trade and export data,Demand forecasting; market analysis; trade forecasting,API/CSV,High,Varies,Aggregated data
+Ministry of Textiles,Government of India,Industry reports and statistics,Industry analysis; market research; forecasting,PDF/Web,Very High,Annual/Periodic,Some data requires PDF extraction
+MoSPI eSankhyiki,Government of India,Manufacturing and economic statistics,Manufacturing analysis; forecasting,Web/Dataset,Very High,Periodic,Some datasets have access restrictions
+Google Trends,Google,Search interest data,Trend forecasting; consumer interest analysis,Web/Export,High,Frequent,Search interest is not actual sales
+U.S. Census International Trade,U.S. Census Bureau,International trade data,Import/export analysis; international benchmarking,API/Web,Very High,Monthly,Primarily U.S.-focused
+Fashion-MNIST,Zalando Research,Image dataset,Computer vision; apparel classification,Download,High,Static,Low-resolution benchmark images
+Hugging Face Fashion Dataset,Hugging Face,Product metadata,Product classification; recommendation research,Dataset/API,Medium,Static,Provenance and licensing should be checked
+Public Web Data,Various,Product and market information,Product intelligence; price analysis,Permitted extraction,Variable,Variable,Terms and website structure may change
+Survey Data,Self-collected,Customer preferences,Customer segmentation; preference analysis,Survey,Variable,Project-dependent,Sampling and response bias
+Social Media Data,Various,Trend and opinion data,Sentiment analysis; trend detection,Permitted API/export,Variable,Frequent,Privacy and platform access restrictions
